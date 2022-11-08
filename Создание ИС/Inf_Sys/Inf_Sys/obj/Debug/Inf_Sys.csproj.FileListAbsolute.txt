@@ -1,0 +1,48 @@
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\bin\Debug\Inf_Sys.exe.config
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\bin\Debug\Inf_Sys.exe
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\bin\Debug\Inf_Sys.pdb
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.csproj.AssemblyReference.cache
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.csproj.SuggestedBindingRedirects.cache
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Main.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Properties.Resources.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.csproj.GenerateResource.cache
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.csproj.CoreCompileInputs.cache
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.exe
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.pdb
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Client.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\bin\Debug\Inf_Sys.exe.config
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\bin\Debug\Inf_Sys.exe
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\bin\Debug\Inf_Sys.pdb
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.csproj.AssemblyReference.cache
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.csproj.SuggestedBindingRedirects.cache
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Client.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Main.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Properties.Resources.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.csproj.GenerateResource.cache
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.csproj.CoreCompileInputs.cache
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.exe
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.pdb
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Requests.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.AddClient.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.AddRequest.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Startup.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Employee.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Parametrs.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Deal.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Buh.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Kadr.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Post.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Income.resources
+C:\Users\1102d\Desktop\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Salary.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.AddClient.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.AddRequest.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Buh.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Deal.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Employee.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Income.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Kadr.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Parametrs.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Post.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Requests.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Salary.resources
+C:\Users\1102d\Desktop\Technical colledge\Практика 06.2022\Создание ИС\Inf_Sys\Inf_Sys\obj\Debug\Inf_Sys.Startup.resources
